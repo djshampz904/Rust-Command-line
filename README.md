@@ -1,2 +1,2 @@
 # Rust-Command-line
-Command line build using rust
+Command line program build using rust
